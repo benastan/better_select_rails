@@ -1,3 +1,12 @@
 [submodule "vendor"]
 	path = vendor
 	url = git@github.com:benastan/better_select.git
+[submodule "vendor/better_select"]
+	path = vendor/better_select
+	url = git@github.com:benastan/better_select.git
+[submodule "vendor/assets/better_select"]
+	path = vendor/assets/better_select
+	url = git@github.com:benastan/better_select.git
+[submodule "vendor/assets/javascripts/better_select"]
+	path = vendor/assets/javascripts/better_select
+	url = git@github.com:benastan/better_select.git
