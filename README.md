@@ -1,6 +1,6 @@
-# BetterSelect
+# BetterSelect (for Rails)
 
-TODO: Write a gem description
+Easily get better HTML Select elements into your rails projects.
 
 ## Installation
 
@@ -8,17 +8,25 @@ Add this line to your application's Gemfile:
 
     gem 'better_select'
 
-And then execute:
-
-    $ bundle
-
 Or install it yourself as:
 
     $ gem install better_select
 
+And then execute:
+
+    $ bundle
+
+Add to application.js:
+
+    //= require 'better-select'
+
+Add to any stylesheet:
+
+    @import 'better-select';
+
 ## Usage
 
-TODO: Write usage instructions here
+See https://github.com/benastan/better_select for detailed usage.
 
 ## Contributing
 

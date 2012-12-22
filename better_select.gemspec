@@ -16,4 +16,5 @@ Gem::Specification.new do |gem|
   gem.version       = BetterSelect::VERSION
 
   gem.add_dependency "railties", "~> 3.1"
+  gem.add_dependency "underscore-rails"
 end
