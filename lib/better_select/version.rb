@@ -1,3 +1,3 @@
 module BetterSelect
-  VERSION = "0.0.53"
+  VERSION = "0.1.0"
 end
